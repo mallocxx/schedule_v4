@@ -6,12 +6,12 @@ const props = defineProps({
 })
 
 const typeColors = {
-  lecture: "border-indigo-300",
-  practice: "border-gray-500",
-  lab: "border-blue-600"
+  lecture: "border-slate-400",
+  practice: "border-slate-600",
+  lab: "border-slate-800"
 }
 
-const getColor = (type) => typeColors[type] || "border-gray-400"
+const getColor = (type) => typeColors[type] || "border-gray-300"
 
 const formatType = (type) => {
   switch (type) {
