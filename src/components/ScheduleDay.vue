@@ -28,7 +28,7 @@ const formatType = (type) => {
 </script>
 
 <template>
-  <div class="bg-zinc-950 text-white px-4 py-2 rounded-lg flex justify-between items-center my-2">
+  <div class="bg-zinc-950 text-white px-4 py-2 rounded-lg flex justify-between items-center my-2 text-sm">
     <span class="font-semibold">{{ dayName }}</span>
     <span class="text-sm">{{ date }}</span>
   </div>
@@ -37,18 +37,20 @@ const formatType = (type) => {
     <div
       v-for="(lesson, index) in lessons"
       :key="index"
-      class="bg-white rounded shadow mb-2 p-4 border-l-4"
+      class="bg-white rounded shadow mb-2 p-2 pt-1 border-l-4 relative"
       :class="getColor(lesson.type)"
     >
       <div class="flex justify-between text-sm text-gray-600">
         <span>{{ lesson.time }}</span>
       </div>
 
-      <div class="mt-1 font-semibold">
+      <div class="h-[1px] bg-zinc-400 absolute top-[26px] left-0 w-full"></div>
+
+      <div class="mt-1 font-semibold text-sm">
         {{ formatType(lesson.type) }} {{ lesson.subject }}
       </div>
 
-      <div class="mt-1 text-sm text-gray-700 flex flex-col">
+      <div class="mt-1 text-sm text-gray-500 flex flex-col">
         <span class="flex flex-row items-center gap-1">
           <img src="@/components/icons/professor.svg" alt="" width="15"> {{ lesson.teacher }}
         </span>
