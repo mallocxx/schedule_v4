@@ -1,0 +1,254 @@
+{
+  "week_1": {
+    "monday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "WEB",
+        "type": "lab",
+        "teacher": "Джалилова М.С.",
+        "room": "2.11"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ТВиМС",
+        "type": "lecture",
+        "teacher": "Лугуева А.С.",
+        "room": "4.6"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ТВиМС",
+        "type": "practice",
+        "teacher": "Лугуева А.С.",
+        "room": "2.15"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "ВССиТ",
+        "type": "lab",
+        "teacher": "Гасанова Н.Р.",
+        "room": "2.11"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ВССиТ",
+        "type": "lecture",
+        "teacher": "Чапаев Н.М.",
+        "room": "4.16"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ОС",
+        "type": "practice",
+        "teacher": "Махмудов Б.Э.",
+        "room": "2.15"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Физкультура",
+        "type": "practice",
+        "teacher": "Незнаю Х.З.",
+        "room": "спортзал"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Ин.яз",
+        "type": "practice",
+        "teacher": "Бабаева Р.Г.",
+        "room": "3.5"
+      }
+    ],
+    "friday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "БД",
+        "type": "practice",
+        "teacher": "Шахбанова З.И.",
+        "room": "2.15"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Ин.яз",
+        "type": "practice",
+        "teacher": "Бабаева Р.Г.",
+        "room": "3.3"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ОС",
+        "type": "lecture",
+        "teacher": "Магомедов Р.И.",
+        "room": "4.13"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "WEB",
+        "type": "lecture",
+        "teacher": "Джалилова М.С.",
+        "room": "4.4"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ТиМП",
+        "type": "lecture",
+        "teacher": "Мирземагомедова М.М.",
+        "room": "ПО"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ОС",
+        "type": "lab",
+        "teacher": "Махмудов Б.Э.",
+        "room": "2.9"
+      }
+    ]
+  },
+  "week_2": {
+    "monday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "WEB",
+        "type": "lab",
+        "teacher": "Джалилова М.С.",
+        "room": "2.11"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ТВиМС",
+        "type": "practice",
+        "teacher": "Лугуева А.С.",
+        "room": "3.5"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Менеджмент",
+        "type": "lecture",
+        "teacher": "Юсупова М.Г.",
+        "room": "4.16"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "БЖД",
+        "type": "practice",
+        "teacher": "Абдурахманова Э.Г.",
+        "room": "3.6"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "БЖД",
+        "type": "lecture",
+        "teacher": "Абдурахманова Э.Г.",
+        "room": "4.6"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "Религиоведение",
+        "type": "lecture",
+        "teacher": "Абасова А.А.",
+        "room": "4.6"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Религиоведение",
+        "type": "practice",
+        "teacher": "Абасова А.А.",
+        "room": "4.7"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Менеджмент",
+        "type": "practice",
+        "teacher": "Юсупова М.Г.",
+        "room": "2.15"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "Ин.яз",
+        "type": "practice",
+        "teacher": "Бабаева Р.Г.",
+        "room": "3.5"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Физкультура",
+        "type": "practice",
+        "teacher": "Незнаю Х.З.",
+        "room": "спортзал"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "БД",
+        "type": "lecture",
+        "teacher": "Шахбанова З.И.",
+        "room": "4.6"
+      }
+    ],
+    "friday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "ОС",
+        "type": "lab",
+        "teacher": "Махмудов Б.Э.",
+        "room": "2.9"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ВССиТ",
+        "type": "lab",
+        "teacher": "Гасанова Н.Р.",
+        "room": "2.3"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "БД",
+        "type": "lab",
+        "teacher": "Шахбанова З.И.",
+        "room": "ПО"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "ТиМП",
+        "type": "lab",
+        "teacher": "Мирземагомедова М.М.",
+        "room": "ПО"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ТиМП",
+        "type": "practice",
+        "teacher": "Мирземагомедова М.М.",
+        "room": "ПО"
+      }
+    ]
+  }
+}
