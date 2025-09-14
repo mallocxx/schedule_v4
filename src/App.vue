@@ -9,7 +9,7 @@ const weeks = {
 }
 
 const days = {
-  all: "Все дни",
+  all: "Все",
   monday: "Понедельник",
   tuesday: "Вторник",
   wednesday: "Среда",
