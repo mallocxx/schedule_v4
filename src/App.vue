@@ -4,8 +4,8 @@ import schedule from '@/data/schedule.json'
 import ScheduleDay from '@/components/ScheduleDay.vue'
 
 const weeks = {
-  week_1: "Неделя 1",
-  week_2: "Неделя 2"
+  week_1: "1",
+  week_2: "2"
 }
 
 const days = {
