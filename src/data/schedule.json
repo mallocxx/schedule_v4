@@ -58,10 +58,10 @@
     "thursday": [
       {
         "time": "08:30-10:05",
-        "subject": "",
-        "type": "",
-        "teacher": "-",
-        "room": "-"
+        "subject": "БД",
+        "type": "practice",
+        "teacher": "Шахбанова З.И.",
+        "room": "3.5"
       },
       {
         "time": "10:15-11:50",
@@ -81,10 +81,10 @@
     "friday": [
       {
         "time": "08:30-10:05",
-        "subject": "БД",
-        "type": "practice",
-        "teacher": "Шахбанова З.И.",
-        "room": "2.15"
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
       },
       {
         "time": "10:15-11:50",
@@ -217,7 +217,7 @@
         "subject": "ОС",
         "type": "lab",
         "teacher": "Махмудов Б.Э.",
-        "room": "2.9"
+        "room": "2.10"
       },
       {
         "time": "10:15-11:50",
