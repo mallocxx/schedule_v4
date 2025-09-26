@@ -3,65 +3,86 @@
     "monday": [
       {
         "time": "08:30-10:05",
-        "subject": "WEB",
+        "subject": "АСВТ",
         "type": "lab",
-        "teacher": "Джалилова М.С.",
-        "room": "2.11"
+        "teacher": "Гаджиев Т.С.",
+        "room": "ВЦ"
       },
       {
         "time": "10:15-11:50",
-        "subject": "ТВиМС",
-        "type": "lecture",
-        "teacher": "Лугуева А.С.",
-        "room": "4.6"
+        "subject": "МиСКЗИ",
+        "type": "lab",
+        "teacher": "Муртузалиева А.А.",
+        "room": "ВЦ"
       },
       {
         "time": "12:20-13:55",
-        "subject": "ТВиМС",
+        "subject": "Приборы и МК",
+        "type": "lecture",
+        "teacher": "Шахбанов Ш.Ш.",
+        "room": "4.13"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "СиСПИ",
         "type": "practice",
-        "teacher": "Лугуева А.С.",
-        "room": "2.15"
+        "teacher": "Фейламазова С.А.",
+        "room": "3.5"
       }
     ],
     "tuesday": [
       {
         "time": "08:30-10:05",
-        "subject": "ВССиТ",
-        "type": "lab",
-        "teacher": "Гасанова Н.Р.",
-        "room": "2.3"
+        "subject": "БЖД",
+        "type": "lecture",
+        "teacher": "Абдурахманова Э.Г.",
+        "room": "4.16"
       },
       {
         "time": "10:15-11:50",
-        "subject": "ВССиТ",
+        "subject": "СиСПИ",
         "type": "lecture",
-        "teacher": "Чапаев Н.М.",
-        "room": "4.16"
+        "teacher": "Фейламазова С.А.",
+        "room": "4.4"
       }
     ],
     "wednesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "СУБД",
+        "type": "lab",
+        "teacher": "Руденко А.И.",
+        "room": "2.12"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Безопасность БД",
+        "type": "lecture",
+        "teacher": "Руденко А.И.",
+        "room": "4.4"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ЯП",
+        "type": "lab",
+        "teacher": "Ахмедова З.Х.",
+        "room": "ВЦ"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Приборы и МК",
+        "type": "lab",
+        "teacher": "Шахбанов Ш.Ш.",
+        "room": "2.9"
+      }
+    ],
+    "thursday": [
       {
         "time": "08:30-10:05",
         "subject": "",
         "type": "",
         "teacher": "-",
         "room": "-"
-      },
-      {
-        "time": "10:15-11:50",
-        "subject": "ОС",
-        "type": "practice",
-        "teacher": "Махмудов Б.Э.",
-        "room": "2.15"
-      }
-    ],
-    "thursday": [
-      {
-        "time": "08:30-10:05",
-        "subject": "БД",
-        "type": "practice",
-        "teacher": "Шахбанова З.И.",
-        "room": "3.5"
       },
       {
         "time": "10:15-11:50",
@@ -72,56 +93,63 @@
       },
       {
         "time": "12:20-13:55",
-        "subject": "Ин.яз",
-        "type": "practice",
-        "teacher": "Бабаева Р.Г.",
-        "room": "3.5"
+        "subject": "МиСКЗИ",
+        "type": "lecture",
+        "teacher": "Муртузалиева А.А.",
+        "room": "2.1"
       }
     ],
     "friday": [
       {
         "time": "08:30-10:05",
-        "subject": "",
-        "type": "",
-        "teacher": "-",
-        "room": "-"
+        "subject": "Ин.яз",
+        "type": "practice",
+        "teacher": "Мутаева С.И.",
+        "room": "4.17"
       },
       {
         "time": "10:15-11:50",
-        "subject": "Ин.яз",
-        "type": "practice",
-        "teacher": "Бабаева Р.Г.",
-        "room": "3.3"
+        "subject": "АСВТ",
+        "type": "lecture",
+        "teacher": "Гаджиев Т.С.",
+        "room": "4.13"
       },
       {
         "time": "12:20-13:55",
         "subject": "ОС",
         "type": "lecture",
-        "teacher": "Магомедов Р.И.",
-        "room": "4.13"
+        "teacher": "Руденко А.И.",
+        "room": "2.15"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Безопасность БД",
+        "type": "lab",
+        "teacher": "Руденко А.И.",
+        "room": "2.12"
       }
     ],
     "saturday": [
       {
         "time": "08:30-10:05",
-        "subject": "WEB",
-        "type": "lecture",
-        "teacher": "Джалилова М.С.",
-        "room": "4.4"
+        "subject": "Ин.яз",
+        "type": "practice",
+        "teacher": "Мутаева С.И.",
+        "room": "4.17"
       },
       {
         "time": "10:15-11:50",
-        "subject": "ТиМП",
+        "subject": "Моделирование систем",
         "type": "lecture",
-        "teacher": "Мирземагомедова М.М.",
-        "room": "ПО"
+        "teacher": "Мустафаев А.Г.",
+        "room": "4.4"
       },
       {
         "time": "12:20-13:55",
-        "subject": "ОС",
-        "type": "lab",
-        "teacher": "Махмудов Б.Э.",
-        "room": "2.9"
+        "subject": "Моделирование систем",
+        "type": "practice",
+        "teacher": "Мустафаев А.Г.",
+        "room": "2.15"
       }
     ]
   },
@@ -129,72 +157,93 @@
     "monday": [
       {
         "time": "08:30-10:05",
-        "subject": "WEB",
+        "subject": "СиСПИ",
         "type": "lab",
-        "teacher": "Джалилова М.С.",
-        "room": "2.11"
+        "teacher": "Фейламазова С.А.",
+        "room": "4.4"
       },
       {
         "time": "10:15-11:50",
-        "subject": "ТВиМС",
-        "type": "practice",
-        "teacher": "Лугуева А.С.",
-        "room": "3.5"
+        "subject": "История Д",
+        "type": "lecture",
+        "teacher": "Гусейнова Б.М.",
+        "room": "4.7"
       },
       {
         "time": "12:20-13:55",
-        "subject": "Менеджмент",
-        "type": "lecture",
-        "teacher": "Юсупова М.Г.",
-        "room": "4.16"
+        "subject": "История Д",
+        "type": "practice",
+        "teacher": "Гусейнова Б.М.",
+        "room": "4.7"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Приборы и МК",
+        "type": "practice",
+        "teacher": "Шахбанов Ш.Ш.",
+        "room": "4.4"
       }
     ],
     "tuesday": [
       {
         "time": "08:30-10:05",
+        "subject": "СиСПИ",
+        "type": "lab",
+        "teacher": "Фейламазова С.А.",
+        "room": "3.13"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "СиСПИ",
+        "type": "lab",
+        "teacher": "Фейламазова С.А.",
+        "room": "3.13"
+      },
+      {
+        "time": "12:20-13:55",
         "subject": "БЖД",
         "type": "practice",
         "teacher": "Абдурахманова Э.Г.",
         "room": "3.6"
-      },
-      {
-        "time": "10:15-11:50",
-        "subject": "БЖД",
-        "type": "lecture",
-        "teacher": "Абдурахманова Э.Г.",
-        "room": "4.6"
       }
     ],
     "wednesday": [
       {
         "time": "08:30-10:05",
-        "subject": "Религиоведение",
-        "type": "lecture",
-        "teacher": "Абасова А.А.",
-        "room": "4.6"
+        "subject": "АСВТ",
+        "type": "lab",
+        "teacher": "Гаджиев Т.С.",
+        "room": "2.11"
       },
       {
         "time": "10:15-11:50",
-        "subject": "Религиоведение",
-        "type": "practice",
-        "teacher": "Абасова А.А.",
-        "room": "4.7"
+        "subject": "Безопасность БД",
+        "type": "lecture",
+        "teacher": "Руденко А.И.",
+        "room": "2.15"
       },
       {
         "time": "12:20-13:55",
-        "subject": "Менеджмент",
-        "type": "practice",
-        "teacher": "Юсупова М.Г.",
-        "room": "2.15"
+        "subject": "СУБД",
+        "type": "lab",
+        "teacher": "Руденко А.И.",
+        "room": "2.12"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Безопасность БД",
+        "type": "lab",
+        "teacher": "Руденко А.И.",
+        "room": "2.12"
       }
     ],
     "thursday": [
       {
         "time": "08:30-10:05",
-        "subject": "Ин.яз",
+        "subject": "АСВТ",
         "type": "practice",
-        "teacher": "Бабаева Р.Г.",
-        "room": "3.5"
+        "teacher": "Гаджиев Т.С.",
+        "room": "4.4"
       },
       {
         "time": "10:15-11:50",
@@ -205,49 +254,49 @@
       },
       {
         "time": "12:20-13:55",
-        "subject": "БД",
+        "subject": "АСВТ",
         "type": "lecture",
-        "teacher": "Шахбанова З.И.",
-        "room": "4.6"
+        "teacher": "Гаджиев Т.С.",
+        "room": "4.4"
       }
     ],
     "friday": [
       {
         "time": "08:30-10:05",
-        "subject": "ОС",
+        "subject": "ЯП",
         "type": "lab",
-        "teacher": "Махмудов Б.Э.",
-        "room": "2.10"
+        "teacher": "Ахмедова З.Х.",
+        "room": "ВЦ"
       },
       {
         "time": "10:15-11:50",
-        "subject": "ВССиТ",
+        "subject": "АСВТ",
         "type": "lab",
-        "teacher": "Гасанова Н.Р.",
-        "room": "2.3"
+        "teacher": "Гаджиев Т.С.",
+        "room": "ВЦ"
       },
       {
         "time": "12:20-13:55",
-        "subject": "БД",
-        "type": "lab",
-        "teacher": "Шахбанова З.И.",
-        "room": "ПО"
+        "subject": "ЯП",
+        "type": "lecture",
+        "teacher": "Ахмедова З.Х.",
+        "room": "4.4"
       }
     ],
     "saturday": [
       {
         "time": "08:30-10:05",
-        "subject": "ТиМП",
+        "subject": "МиСКЗИ",
         "type": "lab",
-        "teacher": "Мирземагомедова М.М.",
-        "room": "ПО"
+        "teacher": "Муртузалиева А.А.",
+        "room": "ВЦ"
       },
       {
         "time": "10:15-11:50",
-        "subject": "ТиМП",
-        "type": "practice",
-        "teacher": "Мирземагомедова М.М.",
-        "room": "ПО"
+        "subject": "МиСКЗИ",
+        "type": "lecture",
+        "teacher": "Муртузалиева А.А.",
+        "room": "4.4"
       }
     ]
   }
