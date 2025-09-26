@@ -106,7 +106,7 @@ select {
 }
 
 select {
-  padding: 0.5rem 1rem; /* теперь будет работать */
+  padding: 0.5rem 1rem; 
   border: 1px solid #ccc;
   border-radius: 0.5rem;
   background-color: white;
