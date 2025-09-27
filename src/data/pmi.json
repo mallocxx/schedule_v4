@@ -1,0 +1,268 @@
+{
+    "week_1": {
+      "monday": [
+        {
+          "time": "08:30-10:05",
+          "subject": "Тех.БД",
+          "type": "practice",
+          "teacher": "Бейбалаев В.Д.",
+          "room": "67"
+        },
+        {
+          "time": "10:15-11:50",
+          "subject": "Дискретная математика",
+          "type": "lecture",
+          "teacher": "Якубов А.З.",
+          "room": "70"
+        },
+        {
+          "time": "12:20-13:55",
+          "subject": "Тех.БД",
+          "type": "lecture",
+          "teacher": "Бейбалаев В.Д.",
+          "room": "70"
+        },
+        {
+          "time": "14:10-15:45",
+          "subject": "ППП",
+          "type": "practice",
+          "teacher": "Бейбалаев В.Д.",
+          "room": "60"
+        }
+      ],
+      "tuesday": [
+        {
+          "time": "08:30-10:05",
+          "subject": "Матанализ",
+          "type": "lecture",
+          "teacher": "Аджиева Х.И.",
+          "room": "70"
+        },
+        {
+          "time": "10:15-11:50",
+          "subject": "Физкультура",
+          "type": "practice",
+          "teacher": "Незнаю Х.З.",
+          "room": "спортзал"
+        },
+        {
+          "time": "12:20-13:55",
+          "subject": "Ин.яз",
+          "type": "practice",
+          "teacher": "Алибулатова Д.М.",
+          "room": "2-2"
+        },
+        {
+          "time": "14:10-15:45",
+          "subject": "Дифф.уравнения",
+          "type": "lecture",
+          "teacher": "Джамалутдинова С.П.",
+          "room": "80"
+        }
+      ],
+      "wednesday": [
+        {
+          "time": "08:30-10:05",
+          "subject": "Дифф.уравнения",
+          "type": "lecture",
+          "teacher": "Джамалутдинова С.П.",
+          "room": "80"
+        },
+        {
+          "time": "10:15-11:50",
+          "subject": "ОВП",
+          "type": "practice",
+          "teacher": "Крамынин К.П.",
+          "room": "84"
+        },
+        {
+          "time": "12:20-13:55",
+          "subject": "Дискретная математика",
+          "type": "lecture",
+          "teacher": "Якубов А.З.",
+          "room": "72"
+        },
+        {
+          "time": "14:10-15:45",
+          "subject": "ОВП",
+          "type": "lecture",
+          "teacher": "Крамынин К.П.",
+          "room": "80"
+        }
+      ],
+      "thursday": [
+        {
+          "time": "08:30-10:05",
+          "subject": "Матанализ",
+          "type": "lecture",
+          "teacher": "Аджиева Х.И.",
+          "room": "77"
+        },
+        {
+          "time": "10:15-11:50",
+          "subject": "ОПД",
+          "type": "lecture",
+          "teacher": "Омарова З.М.",
+          "room": "77"
+        }
+      ],
+      "friday": [
+        {
+          "time": "08:30-10:05",
+          "subject": "Матанализ",
+          "type": "lecture",
+          "teacher": "Аджиева Х.И.",
+          "room": "84"
+        },
+        {
+          "time": "10:15-11:50",
+          "subject": "Ин.яз",
+          "type": "practice",
+          "teacher": "Алибулатова Д.М.",
+          "room": "2-2"
+        }
+      ],
+      "saturday": [
+      ]
+    },
+    "week_2": {
+      "monday": [
+        {
+          "time": "08:30-10:05",
+          "subject": "ОВД",
+          "type": "lecture",
+          "teacher": "Омарова З.М.",
+          "room": "80"
+        },
+        {
+          "time": "10:15-11:50",
+          "subject": "Дискретная математика",
+          "type": "lecture",
+          "teacher": "Якубов А.З.",
+          "room": "70"
+        },
+        {
+          "time": "12:20-13:55",
+          "subject": "Тех.БД",
+          "type": "lecture",
+          "teacher": "Бейбалаев В.Д.",
+          "room": "70"
+        },
+        {
+          "time": "14:10-15:45",
+          "subject": "ППП",
+          "type": "practice",
+          "teacher": "Бейбалаев В.Д.",
+          "room": "60"
+        }
+      ],
+      "tuesday": [
+        {
+          "time": "08:30-10:05",
+          "subject": "Матанализ",
+          "type": "lecture",
+          "teacher": "Аджиева Х.И.",
+          "room": "70"
+        },
+        {
+          "time": "10:15-11:50",
+          "subject": "Физкультура",
+          "type": "practice",
+          "teacher": "Незнаю Х.З.",
+          "room": "спортзал"
+        },
+        {
+          "time": "12:20-13:55",
+          "subject": "Ин.яз",
+          "type": "practice",
+          "teacher": "Алибулатова Д.М.",
+          "room": "2-2"
+        },
+        {
+          "time": "14:10-15:45",
+          "subject": "Ин.яз",
+          "type": "practice",
+          "teacher": "Алибулатова Д.М.",
+          "room": "85"
+        }
+      ],
+      "wednesday": [
+        {
+          "time": "08:30-10:05",
+          "subject": "Дифф.уравнения",
+          "type": "lecture",
+          "teacher": "Джамалутдинова С.П.",
+          "room": "80"
+        },
+        {
+          "time": "10:15-11:50",
+          "subject": "ОВП",
+          "type": "practice",
+          "teacher": "Крамынин К.П.",
+          "room": "84"
+        },
+        {
+          "time": "12:20-13:55",
+          "subject": "Дискретная математика",
+          "type": "lecture",
+          "teacher": "Якубов А.З.",
+          "room": "72"
+        },
+        {
+          "time": "14:10-15:45",
+          "subject": "ОВП",
+          "type": "lecture",
+          "teacher": "Крамынин К.П.",
+          "room": "80"
+        }
+      ],
+      "thursday": [
+        {
+          "time": "08:30-10:05",
+          "subject": "Матанализ",
+          "type": "lecture",
+          "teacher": "Аджиева Х.И.",
+          "room": "77"
+        },
+        {
+          "time": "10:15-11:50",
+          "subject": "Проф.этика",
+          "type": "lecture",
+          "teacher": "Абакарова Р.М.",
+          "room": "77"
+        },
+        {
+          "time": "12:20-13:55",
+          "subject": "Проф.этика",
+          "type": "lecture",
+          "teacher": "Абакарова Р.М.",
+          "room": "80"
+        },
+        {
+          "time": "14:10-15:45",
+          "subject": "Тех.БД",
+          "type": "practice",
+          "teacher": "Бейбалаев В.Д.",
+          "room": "60"
+        }
+      ],
+      "friday": [
+        {
+          "time": "08:30-10:05",
+          "subject": "Матанализ",
+          "type": "lecture",
+          "teacher": "Аджиева Х.И.",
+          "room": "84"
+        },
+        {
+          "time": "10:15-11:50",
+          "subject": "Ин.яз",
+          "type": "practice",
+          "teacher": "Алибулатова Д.М.",
+          "room": "2-2"
+        }
+      ],
+      "saturday": [
+      ]
+    }
+  }

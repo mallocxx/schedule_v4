@@ -1,0 +1,380 @@
+{
+  "week_1": {
+    "monday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ТиМП",
+        "type": "lab",
+        "teacher": "Гаджиев Н.К.",
+        "room": "МИЦ"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Физкультура",
+        "type": "practice",
+        "teacher": "Незнаю Х.З.",
+        "room": "спортзал"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "ЗПД",
+        "type": "lecture",
+        "teacher": "Меджидов З.У.",
+        "room": "4.13"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Электроника и схемотехника",
+        "type": "lecture",
+        "teacher": "Нурмагомедов Ш.А.",
+        "room": "4.6"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "Электроника и схемотехника",
+        "type": "practice",
+        "teacher": "Нурмагомедов Ш.А.",
+        "room": "4.6"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Ин.яз",
+        "type": "practice",
+        "teacher": "Мишаева М.В.",
+        "room": "3.8"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "ТиМП",
+        "type": "lecture",
+        "teacher": "Гаджиев Н.К.",
+        "room": "4.13"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "Криптографические протоколы",
+        "type": "lecture",
+        "teacher": "Ахмедова Н.М.",
+        "room": "4.4"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ТЗИ",
+        "type": "lecture",
+        "teacher": "Мустафаев А.Г.",
+        "room": "4.13"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "ТЗИ",
+        "type": "lab",
+        "teacher": "Мустафаев А.Г.",
+        "room": "3.13"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "Язык ассемблера",
+        "type": "lecture",
+        "teacher": "Мустафаев А.Г.",
+        "room": "4.13"
+      }
+    ],
+    "friday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Криптографические протоколы",
+        "type": "lab",
+        "teacher": "Ахмедова Н.М.",
+        "room": "ВЦ"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ЗПД",
+        "type": "lab",
+        "teacher": "Алибулатов М.А.",
+        "room": "3.13"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Электроника и схемотехника",
+        "type": "lab",
+        "teacher": "Нурмагомедов Ш.А.",
+        "room": "2.9"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ЗПД",
+        "type": "practice",
+        "teacher": "Алибулатов М.А.",
+        "room": "3.5"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "ТЗИ",
+        "type": "practice",
+        "teacher": "Мустафаев А.Г.",
+        "room": "2.15"
+      }
+    ]
+  },
+  "week_2": {
+    "monday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Ин.яз",
+        "type": "practice",
+        "teacher": "Мишаева М.В.",
+        "room": "3.8"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Криптографические протоколы",
+        "type": "practice",
+        "teacher": "Ахмедова Н.М.",
+        "room": "4.4"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "ЗПД",
+        "type": "lecture",
+        "teacher": "Меджидов З.У.",
+        "room": "4.16"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Электроника и схемотехника",
+        "type": "practice",
+        "teacher": "Нурмагомедов Ш.А.",
+        "room": "2.9"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Электроника и схемотехника",
+        "type": "lecture",
+        "teacher": "Нурмагомедов Ш.А.",
+        "room": "4.6"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Криптографические протоколы",
+        "type": "lab",
+        "teacher": "Ахмедова Н.М.",
+        "room": "ВЦ"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ТиМП",
+        "type": "lab",
+        "teacher": "Гаджиев Н.К.",
+        "room": "2.10"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Криптографические протоколы",
+        "type": "lecture",
+        "teacher": "Ахмедова Н.М.",
+        "room": "4.13"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Язык ассемблера",
+        "type": "lab",
+        "teacher": "Мустафаев А.Г.",
+        "room": "3.13"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Язык ассемблера",
+        "type": "lecture",
+        "teacher": "Мустафаев А.Г.",
+        "room": "4.16"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Электроника и схемотехника",
+        "type": "lab",
+        "teacher": "Нурмагомедов Ш.А.",
+        "room": "2.9"
+      }
+    ],
+    "friday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Криптографические протоколы",
+        "type": "lecture",
+        "teacher": "Ахмедова Н.М.",
+        "room": "4.13"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ЗПД",
+        "type": "practice",
+        "teacher": "Алибулатов М.А.",
+        "room": "2.15"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "ЗПД",
+        "type": "lab",
+        "teacher": "Алибулатов М.А.",
+        "room": "3.13"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "ТЗИ",
+        "type": "lab",
+        "teacher": "Мустафаев А.Г.",
+        "room": "3.13"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ТЗИ",
+        "type": "practice",
+        "teacher": "Мустафаев А.Г.",
+        "room": "2.15"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ТЗИ",
+        "type": "lecture",
+        "teacher": "Мустафаев А.Г.",
+        "room": "4.13"
+      }
+    ]
+  }
+}
