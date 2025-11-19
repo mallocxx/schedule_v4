@@ -210,10 +210,10 @@
     "wednesday": [
       {
         "time": "08:30-10:05",
-        "subject": "АСВТ",
-        "type": "lab",
-        "teacher": "Гаджиев Т.С.",
-        "room": "2.11"
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
       },
       {
         "time": "10:15-11:50",
