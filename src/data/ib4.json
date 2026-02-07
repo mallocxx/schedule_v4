@@ -1,0 +1,352 @@
+{
+  "week_1": {
+    "monday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "СиСПИ",
+        "type": "lab",
+        "teacher": "Махмудов Б.Э.",
+        "room": "ВЦ"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Надежность ИС",
+        "type": "lab",
+        "teacher": "Муртузалиева А.А.",
+        "room": "3.13"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "СиСПИ",
+        "type": "lecture",
+        "teacher": "Махмудов Б.Э.",
+        "room": "4.6"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Надежность ИС",
+        "type": "lab",
+        "teacher": "Муртузалиева А.А.",
+        "room": "3.13"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Управление персоналом",
+        "type": "lecture",
+        "teacher": "Алиева П.Р.",
+        "room": "4.6"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "Управление персоналом",
+        "type": "practice",
+        "teacher": "Алиева П.Р.",
+        "room": "4.7"
+      },
+      {
+        "time": "16:50-17:40",
+        "subject": "БВС",
+        "type": "lab",
+        "teacher": "Фейламазова С.А.",
+        "room": "3.13"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "БВС",
+        "type": "lecture",
+        "teacher": "Фейламазова С.А.",
+        "room": "4.16"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "СиСПИ",
+        "type": "lecture",
+        "teacher": "Махмудов Б.Э.",
+        "room": "4.13"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "СиСПИ",
+        "type": "lab",
+        "teacher": "Махмудов Б.Э.",
+        "room": "2.12"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "БВС",
+        "type": "lab",
+        "teacher": "Фейламазова С.А.",
+        "room": "3.13"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "БВС",
+        "type": "lecture",
+        "teacher": "Фейламазова С.А.",
+        "room": "4.13"
+      }
+    ],
+    "friday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "Надежность ИС",
+        "type": "lecture",
+        "teacher": "Муртузалиева А.А.",
+        "room": "4.13"
+      },
+      {
+        "time": "16:50-17:40",
+        "subject": "Надежность ИС",
+        "type": "lecture",
+        "teacher": "Муртузалиева А.А.",
+        "room": "4.13"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      }
+    ]
+  },
+  "week_2": {
+    "monday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "Управление персоналом",
+        "type": "practice",
+        "teacher": "Алиева П.Р.",
+        "room": "4.13"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Управление персоналом",
+        "type": "lecture",
+        "teacher": "Алиева П.Р.",
+        "room": "4.13"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "СиСПИ",
+        "type": "lecture",
+        "teacher": "Махмудов Б.Э.",
+        "room": "4.13"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Надежность ИС",
+        "type": "lab",
+        "teacher": "Муртузалиева А.А.",
+        "room": "3.13"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Надежность ИС",
+        "type": "lecture",
+        "teacher": "Муртузалиева А.А.",
+        "room": "4.16"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "БВС",
+        "type": "lecture",
+        "teacher": "Фейламазова С.А.",
+        "room": "4.16"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "СиСПИ",
+        "type": "lecture",
+        "teacher": "Махмудов Б.Э.",
+        "room": "4.6"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "СиСПИ",
+        "type": "lab",
+        "teacher": "Махмудов Б.Э.",
+        "room": "2.12"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "БВС",
+        "type": "lab",
+        "teacher": "Фейламазова С.А.",
+        "room": "3.13"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "БВС",
+        "type": "lecture",
+        "teacher": "Фейламазова С.А.",
+        "room": "4.13"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "БВС",
+        "type": "lab",
+        "teacher": "Фейламазова С.А.",
+        "room": "3.13"
+      }
+    ],
+    "friday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Надежность ИС",
+        "type": "lab",
+        "teacher": "Муртузалиева А.А.",
+        "room": "3.13"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Надежность ИС",
+        "type": "lecture",
+        "teacher": "Муртузалиева А.А.",
+        "room": "4.6"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "week_1": {
+    "monday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "Ин.яз",
+        "type": "practice",
+        "teacher": "Мутаева С.И.",
+        "room": "4.17"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ЯП",
+        "type": "lab",
+        "teacher": "Ахмедова З.Х.",
+        "room": "3.13"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ТОКБ",
+        "type": "lab",
+        "teacher": "Меджидов З.У.",
+        "room": "3.13"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "СУБД",
+        "type": "lab",
+        "teacher": "Руденко А.И.",
+        "room": "2.12"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "ОВП",
+        "type": "practice",
+        "teacher": "Крамынин К.П.",
+        "room": "3.6"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ОВП",
+        "type": "lecture",
+        "teacher": "Крамынин К.П.",
+        "room": "4.6"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "БВС",
+        "type": "lecture",
+        "teacher": "Ишталбагомаев Ш.М.",
+        "room": "2.1"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "БВС",
+        "type": "lab",
+        "teacher": "Ишталбагомаев Ш.М.",
+        "room": "2.12"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "СУБД",
+        "type": "lecture",
+        "teacher": "Руденко А.И.",
+        "room": "2.1"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ТВиМС",
+        "type": "practice",
+        "teacher": "Лугуева А.С.",
+        "room": "4.13"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ТВиМС",
+        "type": "lecture",
+        "teacher": "Лугуева А.С.",
+        "room": "3.5"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Физкультура",
+        "type": "practice",
+        "teacher": "Незнаю Х.З.",
+        "room": "спортзал"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ТиМП",
+        "type": "lab",
+        "teacher": "Гаджиев Н.К.",
+        "room": "2.10"
+      }
+    ],
+    "friday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "Философия",
+        "type": "practice",
+        "teacher": "Саркарова Н.А.",
+        "room": "4.7"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Философия",
+        "type": "lecture",
+        "teacher": "Саркарова Н.А.",
+        "room": "4.16"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "ЗПД",
+        "type": "lecture",
+        "teacher": "Омарова М.А.",
+        "room": "4.13"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ЗПД",
+        "type": "practice",
+        "teacher": "Омарова М.А.",
+        "room": "4.13"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ТОКБ",
+        "type": "lecture",
+        "teacher": "Меджидов З.У.",
+        "room": "4.4"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "БВС",
+        "type": "lab",
+        "teacher": "Ишталбагомаев Ш.М.",
+        "room": "ВЦ"
+      }
+    ]
+  },
+  "week_2": {
+    "monday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "ЯП",
+        "type": "lecture",
+        "teacher": "Ахмедова З.Х.",
+        "room": "4.4"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ЯП",
+        "type": "lab",
+        "teacher": "Ахмедова З.Х.",
+        "room": "3.13"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "СУБД",
+        "type": "lab",
+        "teacher": "Руденко А.И.",
+        "room": "2.12"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "ТОКБ",
+        "type": "lab",
+        "teacher": "Меджидов З.У.",
+        "room": "3.13"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ОВП",
+        "type": "lecture",
+        "teacher": "Крамынин К.П.",
+        "room": "4.6"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "БВС",
+        "type": "practice",
+        "teacher": "Ишталбагомаев Ш.М.",
+        "room": "2.1"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "ОВП",
+        "type": "practice",
+        "teacher": "Крамынин К.П.",
+        "room": "3.6"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Ин.яз",
+        "type": "practice",
+        "teacher": "Мутаева С.И.",
+        "room": "4.17"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ТиМП",
+        "type": "lecture",
+        "teacher": "Гаджиев Н.К.",
+        "room": "4.4"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "СУБД",
+        "type": "practice",
+        "teacher": "Руденко А.И.",
+        "room": "3.5"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "ТиМП",
+        "type": "lab",
+        "teacher": "Гаджиев Н.К.",
+        "room": "МИЦ"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Физкультура",
+        "type": "practice",
+        "teacher": "Незнаю Х.З.",
+        "room": "спортзал"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Ин.яз",
+        "type": "practice",
+        "teacher": "Мутаева С.И.",
+        "room": "4.17"
+      }
+    ],
+    "friday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Философия",
+        "type": "lecture",
+        "teacher": "Саркарова Н.А.",
+        "room": "4.6"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Философия",
+        "type": "practice",
+        "teacher": "Саркарова Н.А.",
+        "room": "4.7"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "СУБД",
+        "type": "lecture",
+        "teacher": "Руденко А.И.",
+        "room": "2.1"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "ЗПД",
+        "type": "lecture",
+        "teacher": "Омарова М.А.",
+        "room": "4.13"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ЗПД",
+        "type": "practice",
+        "teacher": "Омарова М.А.",
+        "room": "4.13"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "БВС",
+        "type": "lecture",
+        "teacher": "Ишталбагомаев Ш.М.",
+        "room": "2.1"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "БВС",
+        "type": "practice",
+        "teacher": "Ишталбагомаев Ш.М.",
+        "room": "2.1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "week_1": {
+    "monday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Физкультура",
+        "type": "practice",
+        "teacher": "Незнаю Х.З.",
+        "room": "спортзал"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "ТИиК",
+        "type": "practice",
+        "teacher": "Муртузалиева А.А.",
+        "room": "3.6"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "WEB",
+        "type": "lecture",
+        "teacher": "Гаджиев А.М.",
+        "room": "4.4"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "ТИиК",
+        "type": "lecture",
+        "teacher": "Муртузалиева А.А.",
+        "room": "4.16"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "WEB",
+        "type": "lab",
+        "teacher": "Гаджиев А.М.",
+        "room": "ВЦ"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Облачные технологии",
+        "type": "lecture",
+        "teacher": "Магомедов Р.И.",
+        "room": "4.7"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Ин.яз",
+        "type": "practice",
+        "teacher": "Мутаева С.И.",
+        "room": "4.17"
+      }
+    ],
+    "friday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ЧМиМП",
+        "type": "lecture",
+        "teacher": "Лугуева А.С.",
+        "room": "4.16"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Облачные технологии",
+        "type": "lab",
+        "teacher": "Магомедов Р.И.",
+        "room": "ВЦ"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "ЗЭД",
+        "type": "lecture",
+        "teacher": "Омарова М.А.",
+        "room": "4.13"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "ТЗИ",
+        "type": "lab",
+        "teacher": "Мустафаев А.Г.",
+        "room": "2.12"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ТЗИ",
+        "type": "lecture",
+        "teacher": "Мустафаев А.Г.",
+        "room": "4.16"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ТЗИ",
+        "type": "practice",
+        "teacher": "Мустафаев А.Г.",
+        "room": "-"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "ЗЭД",
+        "type": "practice",
+        "teacher": "Омарова М.А.",
+        "room": "4.13"
+      }
+    ]
+  },
+  "week_2": {
+    "monday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ТИиК",
+        "type": "lecture",
+        "teacher": "Муртузалиева А.А.",
+        "room": "4.6"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "ТИиК",
+        "type": "practice",
+        "teacher": "Муртузалиева А.А.",
+        "room": "3.6"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ЧМиМП",
+        "type": "lab",
+        "teacher": "Лугуева А.С.",
+        "room": "ВЦ"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "WEB",
+        "type": "lab",
+        "teacher": "Гаджиев А.М.",
+        "room": "ВЦ"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "WEB",
+        "type": "lecture",
+        "teacher": "Гаджиев А.М.",
+        "room": "4.4"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Облачные технологии",
+        "type": "lecture",
+        "teacher": "Магомедов Р.И.",
+        "room": "4.13"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Облачные технологии",
+        "type": "lab",
+        "teacher": "Магомедов Р.И.",
+        "room": "ВЦ"
+      }
+    ],
+    "friday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Ин.яз",
+        "type": "practice",
+        "teacher": "Мутаева С.И.",
+        "room": "4.17"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ТЗИ",
+        "type": "lab",
+        "teacher": "Мустафаев А.Г.",
+        "room": "3.13"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "ЗЭД",
+        "type": "lecture",
+        "teacher": "Омарова М.А.",
+        "room": "4.13"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "ТЗИ",
+        "type": "lab",
+        "teacher": "Мустафаев А.Г.",
+        "room": "3.13"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ТЗИ",
+        "type": "lecture",
+        "teacher": "Мустафаев А.Г.",
+        "room": "4.16"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ТЗИ",
+        "type": "practice",
+        "teacher": "Мустафаев А.Г.",
+        "room": "3.5"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "ЗЭД",
+        "type": "practice",
+        "teacher": "Омарова М.А.",
+        "room": "4.13"
+      }
+    ]
+  }
+}
