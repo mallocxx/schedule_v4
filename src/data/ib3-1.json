@@ -305,13 +305,20 @@
       },
       {
         "time": "12:20-13:55",
-        "subject": "ТЗИ",
-        "type": "lab",
-        "teacher": "Мустафаев А.Г.",
-        "room": "3.13"
+        "subject": "ЧМиМП",
+        "type": "lecture",
+        "teacher": "Лугуева А.С.",
+        "room": "4.13"
       },
       {
         "time": "14:10-15:20",
+        "subject": "ЧМиМП",
+        "type": "lab",
+        "teacher": "Лугуева А.С.",
+        "room": "ВЦ"
+      },
+      {
+        "time": "15:30-16:40",
         "subject": "ЗЭД",
         "type": "lecture",
         "teacher": "Омарова М.А.",

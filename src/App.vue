@@ -156,6 +156,7 @@ const filteredDays = computed(() => {
       <ScheduleDay v-for="dayKey in filteredDays" :key="dayKey" :dayName="days[dayKey]" :date="''"
         :lessons="currentWeek[dayKey]" />
     </div>
+
   </div>
 </template>
 
