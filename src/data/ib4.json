@@ -13,7 +13,7 @@
         "subject": "СиСПИ",
         "type": "lab",
         "teacher": "Махмудов Б.Э.",
-        "room": "ВЦ"
+        "room": "2.12"
       },
       {
         "time": "12:20-13:55",
@@ -337,6 +337,20 @@
         "type": "lecture",
         "teacher": "Муртузалиева А.А.",
         "room": "4.6"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "СиСПИ",
+        "type": "lab",
+        "teacher": "Махмудов Б.Э.",
+        "room": "2.12"
       }
     ],
     "saturday": [

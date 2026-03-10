@@ -204,7 +204,14 @@
         "subject": "БВС",
         "type": "practice",
         "teacher": "Ишталбагомаев Ш.М.",
-        "room": "2.1"
+        "room": "3.5"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "ТиМП",
+        "type": "lab",
+        "teacher": "Гаджиев Н.К.",
+        "room": "МИЦ"
       }
     ],
     "wednesday": [
@@ -234,16 +241,16 @@
         "subject": "СУБД",
         "type": "practice",
         "teacher": "Руденко А.И.",
-        "room": "3.5"
+        "room": "4.13"
       }
     ],
     "thursday": [
       {
         "time": "08:30-10:05",
-        "subject": "ТиМП",
-        "type": "lab",
-        "teacher": "Гаджиев Н.К.",
-        "room": "МИЦ"
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
       },
       {
         "time": "10:15-11:50",
@@ -287,7 +294,7 @@
         "subject": "СУБД",
         "type": "lecture",
         "teacher": "Руденко А.И.",
-        "room": "2.1"
+        "room": "4.4"
       }
     ],
     "saturday": [

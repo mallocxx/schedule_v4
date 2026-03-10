@@ -65,6 +65,13 @@
         "type": "lecture",
         "teacher": "Муртузалиева А.А.",
         "room": "4.16"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "WEB",
+        "type": "lab",
+        "teacher": "Гаджиев А.М.",
+        "room": "ВЦ"
       }
     ],
     "wednesday": [
@@ -100,13 +107,6 @@
       },
       {
         "time": "14:10-15:20",
-        "subject": "WEB",
-        "type": "lab",
-        "teacher": "Гаджиев А.М.",
-        "room": "ВЦ"
-      },
-      {
-        "time": "15:30-16:40",
         "subject": "Облачные технологии",
         "type": "lab",
         "teacher": "Магомедов Р.И.",
@@ -147,7 +147,7 @@
         "subject": "ЗЭД",
         "type": "lecture",
         "teacher": "Омарова М.А.",
-        "room": "4.13"
+        "room": "4.16"
       }
     ],
     "saturday": [
@@ -315,7 +315,7 @@
         "subject": "ЧМиМП",
         "type": "lecture",
         "teacher": "Лугуева А.С.",
-        "room": "4.13"
+        "room": "3.90"
       },
       {
         "time": "14:10-15:20",
