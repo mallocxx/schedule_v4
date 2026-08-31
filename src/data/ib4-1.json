@@ -1,0 +1,408 @@
+{
+  "week_1": {
+    "monday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Безопасность ОС",
+        "type": "practice",
+        "teacher": "Фейламазова С.А.",
+        "room": "3.6"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "Администрирование в ИС",
+        "type": "lecture",
+        "teacher": "Ишталбагомаев Ш.М.",
+        "room": "4.16"
+      },
+      {
+        "time": "16:50-17:40",
+        "subject": "ПАСЗИ",
+        "type": "lab",
+        "teacher": "Меджидов З.У.",
+        "room": "3.13"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "МОБКС",
+        "type": "practice",
+        "teacher": "Ахмедова З.Х.",
+        "room": "4.4"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Безопасность ОС",
+        "type": "lecture",
+        "teacher": "Фейламазова С.А.",
+        "room": "4.13"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "Безопасность ОС",
+        "type": "lab",
+        "teacher": "Фейламазова С.А.",
+        "room": "3.13"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Основы управления ИБ",
+        "type": "practice",
+        "teacher": "Карапац А.Н.",
+        "room": "2.9"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Основы управления ИБ",
+        "type": "lecture",
+        "teacher": "Карапац А.Н.",
+        "room": "4.13"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "Квантовая криптография",
+        "type": "lecture",
+        "teacher": "Муртузалиева А.А.",
+        "room": "4.16"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      }
+    ],
+    "friday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Квантовая криптография",
+        "type": "lab",
+        "teacher": "Муртузалиева А.А.",
+        "room": "2.9"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "МОБКС",
+        "type": "lecture",
+        "teacher": "Ахмедова З.Х.",
+        "room": "4.16"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Администрирование в ИС",
+        "type": "lab",
+        "teacher": "Ишталбагомаев Ш.М.",
+        "room": "ВЦ"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "Администрирование в ИС",
+        "type": "practice",
+        "teacher": "Ишталбагомаев Ш.М.",
+        "room": "3.5"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ПАСЗИ",
+        "type": "practice",
+        "teacher": "Меджидов З.У.",
+        "room": "3.5"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ПАСЗИ",
+        "type": "lecture",
+        "teacher": "Меджидов З.У.",
+        "room": "4.13"
+      }
+    ]
+  },
+  "week_2": {
+    "monday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Физкультура",
+        "type": "practice",
+        "teacher": "Незнаю Х.З.",
+        "room": "спортзал"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Администрирование в ИС",
+        "type": "practice",
+        "teacher": "Ишталбагомаев Ш.М.",
+        "room": "4.6"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "Безопасность ОС",
+        "type": "practice",
+        "teacher": "Фейламазова С.А.",
+        "room": "3.5"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Безопасность ОС",
+        "type": "lecture",
+        "teacher": "Фейламазова С.А.",
+        "room": "4.13"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "Безопасность ОС",
+        "type": "lab",
+        "teacher": "Фейламазова С.А.",
+        "room": "3.13"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "МОБКС",
+        "type": "lecture",
+        "teacher": "Ахмедова З.Х.",
+        "room": "4.16"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "Администрирование в ИС",
+        "type": "lab",
+        "teacher": "Ишталбагомаев Ш.М.",
+        "room": "2.12"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Основы управления ИБ",
+        "type": "lecture",
+        "teacher": "Карапац А.Н.",
+        "room": "4.16"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "Основы управления ИБ",
+        "type": "practice",
+        "teacher": "Карапац А.Н.",
+        "room": "3.5"
+      }
+    ],
+    "friday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "Квантовая криптография",
+        "type": "lab",
+        "teacher": "Муртузалиева А.А.",
+        "room": "ВЦ"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "МОБКС",
+        "type": "practice",
+        "teacher": "Ахмедова З.Х.",
+        "room": "4.6"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Администрирование в ИС",
+        "type": "lecture",
+        "teacher": "Ишталбагомаев Ш.М.",
+        "room": "4.16"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "Квантовая криптография",
+        "type": "lecture",
+        "teacher": "Муртузалиева А.А.",
+        "room": "4.16"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "08:30-10:05",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ПАСЗИ",
+        "type": "lecture",
+        "teacher": "Меджидов З.У.",
+        "room": "4.13"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "ПАСЗИ",
+        "type": "practice",
+        "teacher": "Меджидов З.У.",
+        "room": "3.5"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "ПАСЗИ",
+        "type": "lab",
+        "teacher": "Меджидов З.У.",
+        "room": "3.13"
+      }
+    ]
+  }
+}
