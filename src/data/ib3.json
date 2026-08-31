@@ -24,17 +24,17 @@
       },
       {
         "time": "14:10-15:20",
-        "subject": "ТИиК",
-        "type": "practice",
-        "teacher": "Муртузалиева А.А.",
-        "room": "3.6"
+        "subject": "ТиМП",
+        "type": "lecture",
+        "teacher": "Гаджиев Н.К.",
+        "room": "4.4"
       },
       {
         "time": "15:30-16:40",
-        "subject": "WEB",
+        "subject": "ЭОРвСИКТ",
         "type": "lecture",
-        "teacher": "Гаджиев А.М.",
-        "room": "4.4"
+        "teacher": "Курбанова У.А.",
+        "room": "4.6"
       }
     ],
     "tuesday": [
@@ -54,24 +54,24 @@
       },
       {
         "time": "12:20-13:55",
-        "subject": "Ин.яз",
-        "type": "practice",
-        "teacher": "Мишаева М.В.",
-        "room": "3.8"
+        "subject": "Электроника и схемотехника",
+        "type": "lecture",
+        "teacher": "Нурмагомедов Ш.А.",
+        "room": "4.6"
       },
       {
         "time": "14:10-15:20",
-        "subject": "ТИиК",
-        "type": "lecture",
-        "teacher": "Муртузалиева А.А.",
-        "room": "4.16"
+        "subject": "Электроника и схемотехника",
+        "type": "practice",
+        "teacher": "Нурмагомедов Ш.А.",
+        "room": "4.6"
       },
       {
         "time": "15:30-16:40",
-        "subject": "WEB",
+        "subject": "Электроника и схемотехника",
         "type": "lab",
-        "teacher": "Гаджиев А.М.",
-        "room": "ВЦ"
+        "teacher": "Нурмагомедов Ш.А.",
+        "room": "2.9"
       }
     ],
     "wednesday": [
@@ -81,6 +81,34 @@
         "type": "",
         "teacher": "-",
         "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "ТИиК",
+        "type": "lecture",
+        "teacher": "Муртузалиева А.А.",
+        "room": "4.6"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "Экономика",
+        "type": "practice",
+        "teacher": "Цинпаева Ф.С.",
+        "room": "4.16"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Экономика",
+        "type": "lecture",
+        "teacher": "Цинпаева Ф.С.",
+        "room": "4.16"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "Управление персоналом",
+        "type": "practice",
+        "teacher": "Маммаева А.З.",
+        "room": "4.6"
       }
     ],
     "thursday": [
@@ -100,17 +128,24 @@
       },
       {
         "time": "12:20-13:55",
-        "subject": "Облачные технологии",
-        "type": "lecture",
-        "teacher": "Магомедов Р.И.",
-        "room": "4.7"
+        "subject": "ТЗИ",
+        "type": "practice",
+        "teacher": "Мустафаев А.Г.",
+        "room": "3.5"
       },
       {
         "time": "14:10-15:20",
-        "subject": "Облачные технологии",
+        "subject": "ТиМП",
         "type": "lab",
-        "teacher": "Магомедов Р.И.",
-        "room": "ВЦ"
+        "teacher": "Гаджиев Н.К.",
+        "room": "МИЦ"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "Язык ассемблера",
+        "type": "lecture",
+        "teacher": "Мустафаев А.Г.",
+        "room": "4.13"
       }
     ],
     "friday": [
@@ -130,10 +165,10 @@
       },
       {
         "time": "12:20-13:55",
-        "subject": "ЧМиМП",
-        "type": "lecture",
-        "teacher": "Лугуева А.С.",
-        "room": "4.16"
+        "subject": "ЗПиД",
+        "type": "practice",
+        "teacher": "Магомедов Р.И.",
+        "room": "4.7"
       },
       {
         "time": "14:10-15:20",
@@ -144,10 +179,17 @@
       },
       {
         "time": "15:30-16:40",
-        "subject": "ЗЭД",
+        "subject": "ТЗИ",
         "type": "lecture",
-        "teacher": "Омарова М.А.",
-        "room": "4.16"
+        "teacher": "Мустафаев А.Г.",
+        "room": "4.13"
+      },
+      {
+        "time": "16:50-17:40",
+        "subject": "Язык ассемблера",
+        "type": "lab",
+        "teacher": "Мустафаев А.Г.",
+        "room": "3.13"
       }
     ],
     "saturday": [
@@ -160,24 +202,24 @@
       },
       {
         "time": "10:15-11:50",
-        "subject": "ТЗИ",
-        "type": "lecture",
-        "teacher": "Мустафаев А.Г.",
-        "room": "4.16"
-      },
-      {
-        "time": "12:20-13:55",
-        "subject": "ТЗИ",
-        "type": "practice",
-        "teacher": "Мустафаев А.Г.",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
         "room": "-"
       },
       {
-        "time": "14:10-15:20",
-        "subject": "ЗЭД",
+        "time": "12:20-13:55",
+        "subject": "ТИиК",
         "type": "practice",
-        "teacher": "Омарова М.А.",
-        "room": "4.13"
+        "teacher": "Муртузалиева А.А.",
+        "room": "3.6"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "ЗПиД",
+        "type": "lecture",
+        "teacher": "Меджидов З.У.",
+        "room": "2.1"
       }
     ]
   },
@@ -200,16 +242,23 @@
       {
         "time": "12:20-13:55",
         "subject": "ТИиК",
-        "type": "lecture",
+        "type": "practice",
         "teacher": "Муртузалиева А.А.",
         "room": "4.6"
       },
       {
         "time": "14:10-15:20",
-        "subject": "ТИиК",
+        "subject": "ЭОРвСИКТ",
         "type": "practice",
-        "teacher": "Муртузалиева А.А.",
-        "room": "3.6"
+        "teacher": "Курбанова У.А.",
+        "room": "4.4"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "ЗПиД",
+        "type": "lecture",
+        "teacher": "Меджидов З.У.",
+        "room": "4.4"
       }
     ],
     "tuesday": [
@@ -219,6 +268,34 @@
         "type": "",
         "teacher": "-",
         "room": "-"
+      },
+      {
+        "time": "10:15-11:50",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "12:20-13:55",
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
+      },
+      {
+        "time": "14:10-15:20",
+        "subject": "Электроника и схемотехника",
+        "type": "practice",
+        "teacher": "Нурмагомедов Ш.А.",
+        "room": "2.15"
+      },
+      {
+        "time": "15:30-16:40",
+        "subject": "ТИиК",
+        "type": "lecture",
+        "teacher": "Муртузалиева А.А.",
+        "room": "4.16"
       }
     ],
     "wednesday": [
@@ -238,24 +315,24 @@
       },
       {
         "time": "12:20-13:55",
-        "subject": "",
-        "type": "",
-        "teacher": "-",
-        "room": "-"
+        "subject": "Управление персоналом",
+        "type": "lecture",
+        "teacher": "Алиева П.Р.",
+        "room": "4.6"
       },
       {
         "time": "14:10-15:20",
-        "subject": "ЧМиМП",
-        "type": "lab",
-        "teacher": "Лугуева А.С.",
-        "room": "ВЦ"
+        "subject": "Электроника и схемотехника",
+        "type": "lecture",
+        "teacher": "Нурмагомедов Ш.А.",
+        "room": "3.6"
       },
       {
         "time": "15:30-16:40",
-        "subject": "WEB",
-        "type": "lecture",
-        "teacher": "Гаджиев А.М.",
-        "room": "4.4"
+        "subject": "Электроника и схемотехника",
+        "type": "lab",
+        "teacher": "Нурмагомедов Ш.А.",
+        "room": "2.9"
       }
     ],
     "thursday": [
@@ -268,31 +345,31 @@
       },
       {
         "time": "10:15-11:50",
-        "subject": "",
-        "type": "",
-        "teacher": "-",
-        "room": "-"
+        "subject": "Язык ассемблера",
+        "type": "lab",
+        "teacher": "Мустафаев А.Г.",
+        "room": "3.13"
       },
       {
         "time": "12:20-13:55",
-        "subject": "Облачные технологии",
+        "subject": "Язык ассемблера",
         "type": "lecture",
-        "teacher": "Магомедов Р.И.",
+        "teacher": "Мустафаев А.Г.",
         "room": "4.13"
       },
       {
         "time": "14:10-15:20",
-        "subject": "WEB",
+        "subject": "ТЗИ",
         "type": "lab",
-        "teacher": "Гаджиев А.М.",
-        "room": "ВЦ"
+        "teacher": "Мустафаев А.Г.",
+        "room": "3.13"
       },
       {
         "time": "15:30-16:40",
-        "subject": "Облачные технологии",
-        "type": "lab",
-        "teacher": "Магомедов Р.И.",
-        "room": "ВЦ"
+        "subject": "ТЗИ",
+        "type": "lecture",
+        "teacher": "Мустафаев А.Г.",
+        "room": "4.13"
       }
     ],
     "friday": [
@@ -305,31 +382,31 @@
       },
       {
         "time": "10:15-11:50",
-        "subject": "ЧМиМП",
-        "type": "lab",
-        "teacher": "Лугуева А.С.",
-        "room": "ВЦ"
+        "subject": "",
+        "type": "",
+        "teacher": "-",
+        "room": "-"
       },
       {
         "time": "12:20-13:55",
-        "subject": "ЧМиМП",
+        "subject": "Экономика",
         "type": "lecture",
-        "teacher": "Лугуева А.С.",
-        "room": "3.90"
+        "teacher": "Цинпаева Ф.С.",
+        "room": "4.16"
       },
       {
         "time": "14:10-15:20",
-        "subject": "ТЗИ",
+        "subject": "ТиМП",
         "type": "lab",
-        "teacher": "Мустафаев А.Г.",
-        "room": "3.13"
+        "teacher": "Гаджиев Н.К.",
+        "room": "МИЦ"
       },
       {
         "time": "15:30-16:40",
-        "subject": "ЗЭД",
-        "type": "lecture",
-        "teacher": "Омарова М.А.",
-        "room": "4.13"
+        "subject": "ТЗИ",
+        "type": "practice",
+        "teacher": "Мустафаев А.Г.",
+        "room": "4.4"
       }
     ],
     "saturday": [
@@ -339,27 +416,6 @@
         "type": "",
         "teacher": "-",
         "room": "-"
-      },
-      {
-        "time": "10:15-11:50",
-        "subject": "ТЗИ",
-        "type": "lecture",
-        "teacher": "Мустафаев А.Г.",
-        "room": "4.16"
-      },
-      {
-        "time": "12:20-13:55",
-        "subject": "ТЗИ",
-        "type": "practice",
-        "teacher": "Мустафаев А.Г.",
-        "room": "3.5"
-      },
-      {
-        "time": "14:10-15:20",
-        "subject": "ЗЭД",
-        "type": "practice",
-        "teacher": "Омарова М.А.",
-        "room": "4.13"
       }
     ]
   }
