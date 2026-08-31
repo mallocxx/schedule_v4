@@ -2,14 +2,21 @@
 <html lang="en">
 
 <head>
+  <script>
+    (function () {
+      var saved = localStorage.getItem("theme");
+      var isDark = saved !== "light";
+      document.documentElement.classList.toggle("dark", isDark);
+    })();
+  </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>schedule</title>
-  <link rel="icon" type="image/x-icon" href="/favicon.ico">
-  <link rel="apple-touch-icon" sizes="180x180" href="/favicon.png">
-  <link rel="shortcut icon" href="/favicon.ico">
-  <script type="module" crossorigin src="/assets/index-DhQLTOd5.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/index-CsaEMWd2.css">
+  <link rel="icon" type="image/x-icon" href="/assets/favicon-BYTwQ3xe.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon-BHJ51XT6.png">
+  <link rel="shortcut icon" href="/assets/favicon-BYTwQ3xe.ico">
+  <script type="module" crossorigin src="/assets/index-D8z2F4c8.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-DwqXUAUF.css">
 </head>
 
 <body>
