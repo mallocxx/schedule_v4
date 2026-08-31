@@ -1,20 +1,18 @@
 <script setup>
 import { ref, computed, watch } from "vue";
-import ib2Schedule from "@/data/ib2.json";
-import ib31Schedule from "@/data/ib3-1.json";
-import ib32Schedule from "@/data/ib3-2.json";
-import ib4Schedule from "@/data/ib4.json";
-import pmiSchedule from "@/data/pmi.json";
+import ib3Schedule from "@/data/ib3.json";
+import ib41Schedule from "@/data/ib4-1.json";
+import ib42Schedule from "@/data/ib4-2.json";
+import pimSchedule from "@/data/pim.json";
 import ScheduleDay from "@/components/ScheduleDay.vue";
 
 const SCHEDULE_KEY = "selectedSchedule";
 
 const schedules = {
-  ib2: "2ИБ",
-  ib31: "3ИБ (1пг)",
-  ib32: "3ИБ (2пг)",
-  ib4: "4ИБ",
-  pmi: "2ПМИ"
+  ib3: "3ИБ",
+  ib41: "4ИБ (1пг)",
+  ib42: "4ИБ (2пг)",
+  pim: "3ПИМ"
 };
 
 const weeks = {
@@ -84,16 +82,14 @@ watch(selectedSchedule, (value) => {
 
 const scheduleData = computed(() => {
   switch (selectedSchedule.value) {
-    case "ib4":
-      return ib4Schedule;
-    case "ib31":
-      return ib31Schedule;
-    case "ib32":
-      return ib32Schedule;
-    case "pmi":
-      return pmiSchedule;
+    case "ib41":
+      return ib41Schedule;
+    case "ib42":
+      return ib42Schedule;
+    case "pim":
+      return pimSchedule;
     default:
-      return ib2Schedule;
+      return ib3Schedule;
   }
 });
 
