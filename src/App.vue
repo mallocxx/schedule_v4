@@ -72,7 +72,7 @@ function getCurrentDay() {
 
 
 const selectedSchedule = ref(
-  localStorage.getItem(SCHEDULE_KEY) || "ib2"
+  localStorage.getItem(SCHEDULE_KEY) || "ib4-2"
 );
 
 const selectedWeek = ref(getCurrentWeek());
