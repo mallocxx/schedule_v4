@@ -87,12 +87,12 @@ const scheduleData = computed(() => {
   switch (selectedSchedule.value) {
     case "ib41":
       return ib41Schedule;
-    case "ib42":
-      return ib42Schedule;
+    case "ib3":
+      return ib3Schedule;
     case "pim":
       return pimSchedule;
     default:
-      return ib3Schedule;
+      return ib42Schedule;
   }
 });
 
